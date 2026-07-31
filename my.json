@@ -1,8 +1,0 @@
-{
-  "sites": [
-    {"key": "feimao", "name": "肥猫", "type": 3, "api": "http://替换成真实肥猫地址", "searchable": 1},
-    {"key": "fan", "name": "饭太硬", "type": 3, "api": "http://替换成真实饭太硬地址/tv", "searchable": 1},
-    {"key": "s3", "name": "资源3", "type": 3, "api": "http://替换成真实地址", "searchable": 1}
-  ],
-  "parses": []
-}
